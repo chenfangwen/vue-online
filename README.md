@@ -1,19 +1,7 @@
-# vue-shop
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm run serve
+npm run build
+git checckout -b gh-pages
+git checkout master
